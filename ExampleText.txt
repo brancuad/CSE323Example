@@ -1,1 +1,6 @@
-Pretend this is a project
+Hello,
+
+Pretend this is a project.
+
+Sincerely,
+Brandon Cuadrado

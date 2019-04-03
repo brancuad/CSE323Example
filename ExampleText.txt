@@ -4,3 +4,7 @@ Pretend this is a project.
 
 Sincerely,
 Brandon Cuadrado
+
+----------------------
+
+This is the scoring functionality.
